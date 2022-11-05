@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856135633384",
+    "project_id": "t3do-96484",
+    "storage_bucket": "t3do-96484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856135633384:android:ea405c436d657865cdbc5d",
+        "android_client_info": {
+          "package_name": "com.thcplusplus.t3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856135633384-q6ara0v7gfipg0qcedss59nakvs84ju2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-JnJTNHT1ibu8CkXClAijlbnzI0Cvxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856135633384-q6ara0v7gfipg0qcedss59nakvs84ju2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
